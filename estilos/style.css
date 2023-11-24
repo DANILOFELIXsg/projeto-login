@@ -60,3 +60,7 @@ div#formulario > h1 {
     margin-bottom: 10px;
 
 }
+
+form > imput [type=submit] {
+    display: block;
+}
